@@ -1,3 +1,3 @@
 # python-IMonitor
 
-This is about my practic in the use of IMonitor
+This is about my practice in the use of IMonitor
