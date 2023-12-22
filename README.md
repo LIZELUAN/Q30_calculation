@@ -1,3 +1,3 @@
-# python-IMonitor
+# Q30 detection
 
-This is about my practice in the use of IMonitor
+This is about my practice to calculate Q30 of a fastq file.
